@@ -4,6 +4,6 @@ I'm a mechanical engineering student who enjoys programming in Python, and worki
 
 ### 🔧 Tools & Technologies I use:
 - Python, C++
-- ANSYS, CATIA, PrePoMax, Abaqus
+- ANSYS, CATIA, PrePoMax, Abaqus, SolidWorks
 - Git, GitHub
 
